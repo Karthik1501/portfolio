@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.11749197.css",
+    "main.js": "/portfolio/static/js/main.b7e4844d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/DSC_0002.JPG": "/portfolio/static/media/DSC_0002.4cc77bdac82703e87b70.JPG",
+    "static/media/compliantReg.png": "/portfolio/static/media/compliantReg.09bfd554600b331eb4ab.png",
+    "static/media/icondropdown.png": "/portfolio/static/media/icondropdown.3b470b1dd507ce2c0d7e.png",
+    "static/media/home.png": "/portfolio/static/media/home.b18929ed06d9e2341324.png",
+    "static/media/compdel.png": "/portfolio/static/media/compdel.de4e84a76875ebe3cf96.png",
+    "static/media/editupdate.png": "/portfolio/static/media/editupdate.eba70b5197557606fdb0.png",
+    "static/media/mobilecompliant.png": "/portfolio/static/media/mobilecompliant.ea9fa89670361d77e145.png",
+    "static/media/register.png": "/portfolio/static/media/register.5f306e256dfee3b908f5.png",
+    "static/media/login.png": "/portfolio/static/media/login.f3ca51f9fa913751399f.png",
+    "static/media/mobileHome.png": "/portfolio/static/media/mobileHome.76b153078bc5d10edf70.png",
+    "static/media/sidenav.png": "/portfolio/static/media/sidenav.b11fa1cdd878a8fffc9e.png",
+    "static/media/Skil.jpg": "/portfolio/static/media/Skil.d858a64b7265cb9109aa.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.11749197.css.map": "/portfolio/static/css/main.11749197.css.map",
+    "main.b7e4844d.js.map": "/portfolio/static/js/main.b7e4844d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11749197.css",
+    "static/js/main.b7e4844d.js"
+  ]
+}
